@@ -11,7 +11,7 @@ else
     getgenv().loaded = true
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/hook/hookwscripts.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AervalHub/AervalHub/main/ez.lua"))()
 task.wait(1)
 --Anti-AFK
 local Players = game:GetService("Players")
